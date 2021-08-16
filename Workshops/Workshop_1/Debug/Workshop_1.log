@@ -1,0 +1,5 @@
+﻿  Tools.cpp
+  Word.cpp
+  WordStat.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'Source.def'
